@@ -83,6 +83,9 @@
 <img width="275" height="37" alt="image" src="https://github.com/user-attachments/assets/a2ded320-2f31-4587-8fc3-c71bce8396e6" />
 
 
+## Task 3.6:
+
+<img width="1639" height="205" alt="image" src="https://github.com/user-attachments/assets/945b0eb7-ac04-470f-9a64-323fed94f75b" />
 
 
 
